@@ -1,7 +1,7 @@
 # web-accessibility-documentation
 Documentation that can be handed off to Site Editors, Builders and Maintainers as additional insurance that accessibility standards will be maintained. 
 
-**Current Status:** very much a work in progress. This will be updated with WCAG and section 508 standards do.
+**Current Status:** very much a work in progress. This will be updated as WCAG and section 508 standards do.
 
 **Further Context:** https://www.w3.org/TR/WCAG20/
 
