@@ -1,0 +1,29 @@
+Web Content Accessability Guidelines (WCAG) 2.0 covers a broad spectrum of recommendations for making web content more accessibile to be people with a range of disabilities. These can include but are not limited to: blindness and low vision, photosensitivity, hearing loss or deafness, cognitive limitations, learning disabilities, limited movement, and speech disabilities. 
+
+*Who Should Use WCAG 2.0 Guidelines?*
+- Web Designers
+- Web Developers
+- Site Editors
+- Web Authoring Tool Developers
+
+*WCAG at a Glance 2.0*
+WCAG 2.0 is a technical standard that can be referenced. WCAG 2.0 is comprised of 12 guidelines organized under 4 principles:
+P.O.U.R.
+*Perceivable*
+1. All non-text content has been provided text alternatives
+2. Captions have been provided for multimedia 
+3. Content can be presented in various ways including assisted technologies, without losing meaning.
+4. Users can easily see and hear all content
+*Operable*
+1. All functionality can be accessed from a keyboard
+2. Users are provided with enough time to read and use content
+3. Content isn't being used that can cause seizures
+4. Help user navigate and find content
+*Understandable*
+1. Text is readable and understandable
+2. Content appears and operates in predictable ways
+3. Help users avoid and correct mistakes
+*Robust*
+1. Maximize compatibility with current and future user tools and technologies
+
+Each Guideline has testable success criteria with three levels: A, AA, & AAA. Read more about conformance with these levels here: https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html#uc-levels-head
